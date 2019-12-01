@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575085460 source:e:\为机试而战\特殊回文数\1\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<stack>
+

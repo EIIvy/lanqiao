@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1574934628 source:e:\为机试而战\16转8\16转8\main.cpp
+	<iostream>
+	<stack>
+	<string.h>
+	<stdio.h>
+	<math.h>
+
